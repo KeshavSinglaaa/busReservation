@@ -72,6 +72,7 @@ public:
         cout << "Available Seats: " << count << "\n";
     }
 };
+//main function
 int main() {
     vector<Bus> buses;
     int choice;
